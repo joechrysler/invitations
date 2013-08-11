@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Invitation Reverse.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4635"
+       id="pattern3914"
+       patternTransform="matrix(0,-10,-10,0,520.47204,582.83422)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboard"
+       id="pattern4635"
+       patternTransform="matrix(0,10,-10,0,520.47204,-183.16578)" />
+    <pattern
+       inkscape:stockid="Checkerboard"
+       id="Checkerboard"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="2"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4553"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="fill:black;stroke:none" />
+      <rect
+         id="rect4555"
+         height="1"
+         width="1"
+         y="1"
+         x="1"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3333333"
+     inkscape:cx="383"
+     inkscape:cy="852.56578"
+     inkscape:document-units="in"
+     inkscape:current-layer="g5975"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1391"
+     inkscape:window-height="876"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="in"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.4)">
+    <g
+       id="g5975"
+       transform="matrix(0,-1,1,0,183.16578,582.83422)">
+      <g
+         id="g3290"
+         transform="matrix(0,1,-1,0,582.83422,-183.16578)">
+        <g
+           transform="matrix(0,-1,1,0,183.16578,582.83422)"
+           id="g3140">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3867"
+             d="m 498.07973,-120.82203 0,642.3125 c -0.8404,0.31524 -1.70765,0.58915 -2.53125,0.9375 -1.96083,0.82936 -3.86091,1.74076 -5.71875,2.75 -1.85784,1.00924 -3.66238,2.10312 -5.40625,3.28125 -1.74387,1.17813 -3.41234,2.44521 -5.03125,3.78125 -1.61891,1.33604 -3.17328,2.76703 -4.65625,4.25 -1.48297,1.48297 -2.91396,3.03734 -4.25,4.65625 -1.33604,1.61891 -2.60312,3.28738 -3.78125,5.03125 -1.17813,1.74387 -2.27201,3.54841 -3.28125,5.40625 -1.00924,1.85784 -1.92064,3.75792 -2.75,5.71875 -0.34835,0.8236 -0.62226,1.69085 -0.9375,2.53125 l -206.71875,0 c -0.31524,-0.8404 -0.58915,-1.70765 -0.9375,-2.53125 -0.82936,-1.96083 -1.74076,-3.86091 -2.75,-5.71875 -1.00924,-1.85784 -2.10312,-3.66238 -3.28125,-5.40625 -1.17813,-1.74387 -2.44521,-3.41234 -3.78125,-5.03125 -1.33604,-1.61891 -2.73578,-3.17328 -4.21875,-4.65625 -1.48297,-1.48297 -3.03734,-2.91396 -4.65625,-4.25 -1.61891,-1.33604 -3.31863,-2.60312 -5.0625,-3.78125 -1.74387,-1.17813 -3.54841,-2.27201 -5.40625,-3.28125 -1.85784,-1.00924 -3.75792,-1.92064 -5.71875,-2.75 -1.14946,-0.48618 -2.34939,-0.89113 -3.53125,-1.3125 l 0,-641.5625 c 1.18186,-0.42137 2.38179,-0.82632 3.53125,-1.3125 1.96083,-0.82936 3.86091,-1.74076 5.71875,-2.75 1.85784,-1.00924 3.66238,-2.10312 5.40625,-3.28125 1.74387,-1.17813 3.44359,-2.44521 5.0625,-3.78125 1.61891,-1.33604 3.17328,-2.76703 4.65625,-4.25 1.48297,-1.48297 2.88271,-3.03734 4.21875,-4.65625 1.33604,-1.61891 2.60312,-3.28738 3.78125,-5.03125 1.17813,-1.74387 2.27201,-3.54841 3.28125,-5.40625 1.00924,-1.85784 1.92064,-3.75792 2.75,-5.71875 0.48618,-1.14946 0.89113,-2.34939 1.3125,-3.53125 l 205.96875,0 c 0.42137,1.18186 0.82632,2.38179 1.3125,3.53125 0.82936,1.96083 1.74076,3.86091 2.75,5.71875 1.00924,1.85784 2.10312,3.66238 3.28125,5.40625 1.17813,1.74387 2.44521,3.41234 3.78125,5.03125 1.33604,1.61891 2.76703,3.17328 4.25,4.65625 1.48297,1.48297 3.03734,2.91396 4.65625,4.25 1.61891,1.33604 3.28738,2.60312 5.03125,3.78125 1.74387,1.17813 3.54841,2.27201 5.40625,3.28125 1.85784,1.00924 3.75792,1.92064 5.71875,2.75 0.8236,0.34835 1.69085,0.62226 2.53125,0.9375 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect3869"
+             d="m 519.97204,582.33422 -43.84375,0 c 0.26757,-24.09957 19.74418,-43.57618 43.84375,-43.84375 l 0,43.84375 z m 0,-720.21875 c -2.88278,-0.0328 -5.71185,-0.25475 -8.4375,-0.8125 -2.88763,-0.59089 -5.69027,-1.47142 -8.34375,-2.59375 -2.65348,-1.12233 -5.17137,-2.49944 -7.53125,-4.09375 -2.35988,-1.59431 -4.55568,-3.39943 -6.5625,-5.40625 -2.00682,-2.00682 -3.81195,-4.20262 -5.40625,-6.5625 -1.59431,-2.35988 -2.97142,-4.87777 -4.09375,-7.53125 -1.12233,-2.65348 -2.00286,-5.45613 -2.59375,-8.34375 -0.59089,-2.88762 -0.875,-5.87519 -0.875,-8.9375 0,-0.17177 0.0606,-0.32869 0.0625,-0.5 l 43.78125,0 0,44.78125 z m -284.53125,720.21875 -44.875,0 0,-43.84375 c 0.16733,-0.002 0.33223,0 0.5,0 24.3308,0 44.10572,19.57672 44.375,43.84375 z m 0,-764.5 c 0,3.06231 -0.31536,6.04988 -0.90625,8.9375 -0.59089,2.88762 -1.47142,5.69027 -2.59375,8.34375 -1.12233,2.65348 -2.49944,5.17137 -4.09375,7.53125 -1.59431,2.35988 -3.39943,4.55568 -5.40625,6.5625 -2.00682,2.00682 -4.20262,3.81194 -6.5625,5.40625 -2.35988,1.59431 -4.87777,2.97142 -7.53125,4.09375 -2.65348,1.12233 -5.45613,2.00286 -8.34375,2.59375 -2.88762,0.59089 -5.87519,0.875 -8.9375,0.875 -0.17177,0 -0.32869,-0.0606 -0.5,-0.0625 l 0,-44.78125 44.8125,0 c 0.002,0.17126 0.0625,0.32828 0.0625,0.5 z"
+             style="opacity:0.2469136;fill:url(#pattern3914);fill-opacity:1;stroke:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3757"
+             d="m 212.89389,28.03046 284.61311,0"
+             style="fill:none;stroke:#000000;stroke-width:1.16999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <text
+             transform="matrix(0,-1,-1,0,0,0)"
+             sodipodi:linespacing="125%"
+             id="text5982"
+             y="-575.4342"
+             x="-12.834211"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="-575.4342"
+               x="-12.834211"
+               id="tspan5984"
+               sodipodi:role="line"> </tspan></text>
+          <text
+             transform="matrix(0,-1,-1,0,0,0)"
+             sodipodi:linespacing="125%"
+             id="text5994"
+             y="-436.29993"
+             x="-502.74243"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="-436.29993"
+               x="-502.74243"
+               id="tspan5996"
+               sodipodi:role="line" /></text>
+          <text
+             transform="matrix(0,-1,-1,0,0,0)"
+             sodipodi:linespacing="125%"
+             id="text3218"
+             y="-447.46124"
+             x="-151.07745"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ALS Script;-inkscape-font-specification:ALS Script"
+             xml:space="preserve"><tspan
+               y="-447.46124"
+               x="-151.07745"
+               id="tspan3220"
+               sodipodi:role="line"> </tspan></text>
+          <text
+             transform="matrix(0,-1,-1,0,0,0)"
+             sodipodi:linespacing="125%"
+             id="text5024"
+             y="-449.27554"
+             x="-430.14551"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ALS Script;-inkscape-font-specification:ALS Script"
+             xml:space="preserve"><tspan
+               id="tspan5026"
+               sodipodi:role="line"
+               x="-430.14551"
+               y="-449.27554" /></text>
+          <text
+             transform="matrix(0,-1,-1,0,0,0)"
+             sodipodi:linespacing="125%"
+             id="text3370"
+             y="-275.02716"
+             x="68.772415"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0.06px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ALS Script;-inkscape-font-specification:ALS Script"
+             xml:space="preserve"><tspan
+               id="tspan3372"
+               sodipodi:role="line"
+               x="68.772415"
+               y="-275.02716" /></text>
+          <text
+             transform="scale(1,-1)"
+             sodipodi:linespacing="125%"
+             id="text5642"
+             y="87.93853"
+             x="404.38989"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0.06px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ALS Script;-inkscape-font-specification:ALS Script"
+             xml:space="preserve"><tspan
+               y="87.93853"
+               x="404.38989"
+               id="tspan5644"
+               sodipodi:role="line" /></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3203-2-84-2-9"
+             y="56.457047"
+             x="336.51315"
+             style="font-size:14.04847622px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"
+             transform="scale(1,-1)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif"
+               y="56.457047"
+               x="336.51315"
+               id="tspan3205-4-2-7-8"
+               sodipodi:role="line" /></text>
+          <g
+             id="g4214"
+             transform="translate(-2,0)">
+            <text
+               transform="matrix(0,1,-1,0,0,0)"
+               xml:space="preserve"
+               style="font-size:19.31735039px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.11999989px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+               x="48.133022"
+               y="-467.55255"
+               id="text5978"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5980"
+                 x="48.133022"
+                 y="-467.55255"
+                 style="font-size:16px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start">Directions to the Temple</tspan></text>
+            <g
+               id="g4182">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-8"
+                 y="-449.07004"
+                 x="49.229412"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                   y="-449.07004"
+                   x="49.229412"
+                   id="tspan5980-4"
+                   sodipodi:role="line">via South I-675</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-8-2"
+                 y="-437.3869"
+                 x="56.100216"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:3.94000006px;text-anchor:start"
+                   y="-437.3869"
+                   x="56.100216"
+                   id="tspan5980-4-0"
+                   sodipodi:role="line">Take exit 2B onto Jefferson Ave, turn</tspan><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:3.88000011px;text-anchor:start"
+                   y="-424.8869"
+                   x="56.100216"
+                   sodipodi:role="line"
+                   id="tspan3980">right onto Johnson St, then Left onto</tspan><tspan
+                   id="tspan4134"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                   y="-412.3869"
+                   x="56.100216"
+                   sodipodi:role="line">North Washington Ave</tspan></text>
+            </g>
+            <g
+               id="g4190">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-8-6"
+                 y="-395.33649"
+                 x="48.621304"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                   y="-395.33649"
+                   x="48.621304"
+                   id="tspan5980-4-5"
+                   sodipodi:role="line">via North I-675</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-8-2-4"
+                 y="-383.65335"
+                 x="56.100216"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:4.48999977px;text-anchor:start"
+                   y="-383.65335"
+                   x="56.100216"
+                   id="tspan5980-4-0-6"
+                   sodipodi:role="line"
+                   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4.8328093e-09">Take exit 2 toward M-13/5<tspan
+   id="tspan4148"
+   style="font-size:65.00091553%;word-spacing:4.48999977px;baseline-shift:super">th</tspan> Ave and</tspan><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:2.5px;text-anchor:start"
+                   y="-371.15335"
+                   x="56.100216"
+                   sodipodi:role="line"
+                   id="tspan4018">continue as it becomes Wadsworth Ave</tspan><tspan
+                   id="tspan4142"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:1.38999999px;text-anchor:start"
+                   y="-358.65335"
+                   x="56.100216"
+                   sodipodi:role="line">for about three quarter miles, then turn</tspan><tspan
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                   y="-346.15335"
+                   x="56.100216"
+                   sodipodi:role="line"
+                   id="tspan3980-0">Left <tspan
+   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+   id="tspan4022"
+   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start">onto North Washington Ave.</tspan></tspan></text>
+            </g>
+          </g>
+          <g
+             transform="translate(-7.3916016,-0.42382813)"
+             id="g4201-3">
+            <text
+               transform="matrix(0,1,-1,0,0,0)"
+               xml:space="preserve"
+               style="font-size:19.31735039px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.11999989px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+               x="48.133022"
+               y="-318.07794"
+               id="text5978-9-9"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5980-2-3"
+                 x="48.133022"
+                 y="-318.07794"
+                 style="font-size:16px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start">Parking</tspan></text>
+            <g
+               transform="translate(-135.46196,-9.4992867)"
+               id="g4040-6-8">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-8-5-2"
+                 y="-439.69165"
+                 x="65.648331"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   id="tspan4163-3"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0.05px;text-anchor:start"
+                   y="-439.69165"
+                   x="65.648331"
+                   sodipodi:role="line">is available behind the Temple Theater</tspan></text>
+            </g>
+          </g>
+          <g
+             transform="translate(155.47461,244.49729)"
+             id="g4201-0">
+            <g
+               id="g4394">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-9-1"
+                 y="-310.07794"
+                 x="48.133022"
+                 style="font-size:19.31735039px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.11999989px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   style="font-size:16px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                   y="-310.07794"
+                   x="48.133022"
+                   id="tspan5980-2-0"
+                   sodipodi:role="line">Please Enter</tspan></text>
+              <g
+                 id="g4040-6-7"
+                 transform="translate(-143.46196,-9.4992867)">
+                <text
+                   transform="matrix(0,1,-1,0,0,0)"
+                   xml:space="preserve"
+                   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                   x="65.648331"
+                   y="-439.69165"
+                   id="text5978-8-5-1"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     x="65.648331"
+                     y="-439.69165"
+                     style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:-0.51999998px;text-anchor:start"
+                     id="tspan4163-34">via the red carpet entrance on Washington</tspan><tspan
+                     id="tspan4382"
+                     sodipodi:role="line"
+                     x="65.648331"
+                     y="-427.19165"
+                     style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:4.01000023px;text-anchor:start">Avenue. The Ceremony will be on the</tspan><tspan
+                     id="tspan4384"
+                     sodipodi:role="line"
+                     x="65.648331"
+                     y="-414.69165"
+                     style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0.05px;text-anchor:start">second floor, with Hor D'oeuvres to follow</tspan><tspan
+                     id="tspan4386"
+                     sodipodi:role="line"
+                     x="65.648331"
+                     y="-402.19165"
+                     style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:-0.61500001px;text-anchor:start">on the first floor lounge. The reception will</tspan><tspan
+                     id="tspan4390"
+                     sodipodi:role="line"
+                     x="65.648331"
+                     y="-389.69165"
+                     style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:-0.77999997px;text-anchor:start">be in the Grand Ballroom on the third floor.</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g4428"
+             transform="translate(55.25,244.49729)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text4430"
+               y="-318.07794"
+               x="48.133022"
+               style="font-size:19.31735039px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.11999989px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+               xml:space="preserve"
+               transform="matrix(0,1,-1,0,0,0)"><tspan
+                 style="font-size:16px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                 y="-318.07794"
+                 x="48.133022"
+                 id="tspan4432"
+                 sodipodi:role="line">Hotel Reservations</tspan></text>
+            <g
+               id="g4434"
+               transform="translate(-135.46196,-9.4992867)">
+              <text
+                 transform="matrix(0,1,-1,0,0,0)"
+                 xml:space="preserve"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 x="65.648331"
+                 y="-439.69165"
+                 id="text4436"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan4438"
+                   x="65.648331"
+                   y="-439.69165"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0.76999998px;text-anchor:start">We've reserved rooms at the Ramada Inn</tspan><tspan
+                   sodipodi:role="line"
+                   x="65.648331"
+                   y="-427.19165"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0.08px;text-anchor:start"
+                   id="tspan4440">in case you'd like to stay in town after the</tspan><tspan
+                   sodipodi:role="line"
+                   x="65.648331"
+                   y="-414.69165"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:5.13999987px;text-anchor:start"
+                   id="tspan4442">wedding. To confirm your reservation,</tspan><tspan
+                   sodipodi:role="line"
+                   x="65.648331"
+                   y="-402.19165"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:1.52999997px;text-anchor:start"
+                   id="tspan4444">please call the Inn at (800) 654-3309 by</tspan><tspan
+                   sodipodi:role="line"
+                   x="65.648331"
+                   y="-389.69165"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:2.77999997px;text-anchor:start"
+                   id="tspan4446">November 21<tspan
+   style="font-size:65.00091553%;word-spacing:2.77999997px;baseline-shift:super"
+   id="tspan4448">st</tspan> and mention that you're</tspan><tspan
+                   sodipodi:role="line"
+                   x="65.648331"
+                   y="-377.19165"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+                   id="tspan4450">with the Hanson party.</tspan></text>
+            </g>
+          </g>
+          <g
+             transform="translate(-62.717142,2.8889879)"
+             id="g4201-3-9" />
+          <g
+             transform="translate(-54.203628,-0.33789063)"
+             id="g4201-3-7">
+            <text
+               transform="matrix(0,1,-1,0,0,0)"
+               xml:space="preserve"
+               style="font-size:19.31735039px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.11999989px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+               x="48.133022"
+               y="-318.07794"
+               id="text5978-9-9-9"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5980-2-3-9"
+                 x="48.133022"
+                 y="-318.07794"
+                 style="font-size:16px;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start">More Information</tspan></text>
+            <g
+               transform="translate(-135.46196,-9.4992867)"
+               id="g4040-6-8-5">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5978-8-5-2-2"
+                 y="-439.69165"
+                 x="65.648331"
+                 style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.12852287px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+                 xml:space="preserve"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   id="tspan4163-3-8"
+                   style="font-size:10px;text-align:start;letter-spacing:0px;word-spacing:2.37999964px;text-anchor:start"
+                   y="-439.69165"
+                   x="65.648331"
+                   sodipodi:role="line">is available online at theknot.com/wedding/Hanson-and-Chrysler </tspan></text>
+            </g>
+          </g>
+        </g>
+        <text
+           transform="matrix(0,1,-1,0,0,0)"
+           sodipodi:linespacing="125%"
+           id="text5978-0"
+           y="-192.94583"
+           x="94.933525"
+           style="font-size:14.49529457px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:4.59230709px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+           xml:space="preserve"><tspan
+             id="tspan3226"
+             style="font-size:11px;text-align:start;letter-spacing:1.55999994px;word-spacing:0px;text-anchor:start"
+             y="-192.94583"
+             x="94.933525"
+             sodipodi:role="line">Please indicate any additional guests</tspan><tspan
+             id="tspan3228"
+             style="font-size:11px;text-align:start;letter-spacing:1.95000005px;word-spacing:0px;text-anchor:start"
+             y="-179.19583"
+             x="94.933525"
+             sodipodi:role="line">and their choice of Beef Jardiniere,</tspan><tspan
+             id="tspan3230"
+             style="font-size:11px;text-align:start;letter-spacing:1.23000002px;word-spacing:0px;text-anchor:start"
+             y="-165.44583"
+             x="94.933525"
+             sodipodi:role="line">Balsamic Chicken, or Butternut Ravioli</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3757-5-4"
+           d="m 130.8282,96.043937 0,261.358863"
+           style="fill:none;stroke:#000000;stroke-width:1.12118411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           transform="matrix(0,1,-1,0,520.43422,-183.16578)"
+           sodipodi:linespacing="125%"
+           id="text3252"
+           y="347.10785"
+           x="540.6767"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0.06px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:ALS Script;-inkscape-font-specification:ALS Script"
+           xml:space="preserve"><tspan
+             y="347.10785"
+             x="540.6767"
+             id="tspan3254"
+             sodipodi:role="line"> </tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3757-5-4-8"
+           d="m 104.10863,96.043937 0,261.358863"
+           style="fill:none;stroke:#000000;stroke-width:1.12118411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3757-5-4-5"
+           d="m 77.389053,96.043932 0,261.358878"
+           style="fill:none;stroke:#000000;stroke-width:1.12118411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3757-5-4-81"
+           d="m 50.66951,120.53919 0,212.36836"
+           style="fill:none;stroke:#000000;stroke-width:1.01065564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>
