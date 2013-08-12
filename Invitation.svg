@@ -54,7 +54,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91111111"
+     inkscape:zoom="1.6444444"
      inkscape:cx="383"
      inkscape:cy="852.56578"
      inkscape:document-units="in"
@@ -1632,27 +1632,6 @@
                x="404.38989"
                id="tspan5644"
                sodipodi:role="line" /></text>
-          <g
-             transform="translate(3.6713547,-10.520869)"
-             id="g5731">
-            <g
-               id="g5778">
-              <text
-                 sodipodi:linespacing="125%"
-                 id="text3203-2-84-2-8"
-                 y="495.96698"
-                 x="343.37799"
-                 style="font-size:14.07515907px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                 xml:space="preserve"><tspan
-                   style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:0.25999999px;font-family:Serif;-inkscape-font-specification:Serif"
-                   y="495.96698"
-                   x="343.37799"
-                   id="tspan3205-4-2-7-0"
-                   sodipodi:role="line">N<tspan
-   id="tspan3634"
-   style="font-size:65.00091553%;letter-spacing:0.25999999px;baseline-shift:super">o</tspan> of Plates</tspan></text>
-            </g>
-          </g>
           <text
              sodipodi:linespacing="125%"
              id="text3203-2-84-2-9"
@@ -1679,30 +1658,46 @@
                  id="tspan3205-4-2"
                  x="343.9332"
                  y="423.85263"
-                 style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:0.2px;word-spacing:-1.73000002px;font-family:Serif;-inkscape-font-specification:Serif">Yes, we plan </tspan><tspan
+                 style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:0.2px;word-spacing:0.76999998px;font-family:Serif;-inkscape-font-specification:Serif">Yes, we will </tspan><tspan
                  id="tspan3597"
                  sodipodi:role="line"
                  x="343.9332"
                  y="439.10263"
-                 style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-0.22px;word-spacing:-1.73000002px;font-family:Serif;-inkscape-font-specification:Serif">on <tspan
-   id="tspan3640"
-   style="letter-spacing:-0.1px">attending</tspan></tspan></text>
+                 style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-0.22px;word-spacing:-0.36000001px;font-family:Serif;-inkscape-font-specification:Serif">be attending</tspan></text>
           </g>
           <path
              inkscape:connector-curvature="0"
              id="path3757-5-4"
              d="m 432.34442,429.22345 43.40592,0"
              style="fill:none;stroke:#000000;stroke-width:0.45691228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path3757-5-4-1"
-             d="m 432.34442,462.23465 43.40592,0"
-             style="fill:none;stroke:#000000;stroke-width:0.45691228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path3757-5-4-1-9"
-             d="m 432.34442,485.21112 43.40592,0"
-             style="fill:none;stroke:#000000;stroke-width:0.45691228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <g
+             id="g3300"
+             transform="translate(0,-36)">
+            <g
+               id="g5731"
+               transform="translate(3.6713547,-10.520869)">
+              <g
+                 id="g5778">
+                <text
+                   xml:space="preserve"
+                   style="font-size:14.07515907px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                   x="343.37799"
+                   y="495.96698"
+                   id="text3203-2-84-2-8"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan3205-4-2-7-0"
+                     x="343.37799"
+                     y="495.96698"
+                     style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:0.38px;word-spacing:-1.07999992px;font-family:Serif;-inkscape-font-specification:Serif"># attending</tspan></text>
+              </g>
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.45691228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 432.34442,485.21112 43.40592,0"
+               id="path3757-5-4-1-9"
+               inkscape:connector-curvature="0" />
+          </g>
           <path
              inkscape:connector-curvature="0"
              id="path3594-1"
@@ -1737,25 +1732,34 @@
    style="word-spacing:4.40999985px"
    id="tspan6563">an 48</tspan>607</tspan></text>
           <g
-             transform="translate(7.9813095,26.850689)"
-             id="g5765-4">
-            <text
-               xml:space="preserve"
-               style="font-size:14.04847622px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="339.46716"
-               y="423.29105"
-               id="text3203-2-84-8"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan3205-4-2-8"
-                 x="339.46716"
+             id="g3293"
+             transform="translate(0,20)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.45691228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 432.34442,462.23465 43.40592,0"
+               id="path3757-5-4-1"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g5765-4"
+               transform="translate(7.9813095,26.850689)">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text3203-2-84-8"
                  y="423.29105"
-                 style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;letter-spacing:0.43000001px;word-spacing:-1.73000002px;font-family:Serif;-inkscape-font-specification:Serif">Regretfully,</tspan><tspan
-                 id="tspan3597-0"
-                 sodipodi:role="line"
                  x="339.46716"
-                 y="435.61304"
-                 style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;letter-spacing:1.02999997px;word-spacing:0px;font-family:Serif;-inkscape-font-specification:Serif">we decline</tspan></text>
+                 style="font-size:14.04847622px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 xml:space="preserve"><tspan
+                   style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;letter-spacing:0.43000001px;word-spacing:-1.73000002px;font-family:Serif;-inkscape-font-specification:Serif"
+                   y="423.29105"
+                   x="339.46716"
+                   id="tspan3205-4-2-8"
+                   sodipodi:role="line">Regretfully,</tspan><tspan
+                   style="font-size:12.19999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;letter-spacing:1.02999997px;word-spacing:0px;font-family:Serif;-inkscape-font-specification:Serif"
+                   y="435.61304"
+                   x="339.46716"
+                   sodipodi:role="line"
+                   id="tspan3597-0">we decline</tspan></text>
+            </g>
           </g>
           <path
              inkscape:connector-curvature="0"
